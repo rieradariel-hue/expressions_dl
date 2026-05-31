@@ -1,3 +1,6 @@
 echo "FER-2013/" >> .gitignore
 echo ".venv/" >> .gitignore
-echo "__pycache__/" >> .gitignore
+echo "__pycache__/" >> .gitignoreFER-2013/
+.venv/
+__pycache__/
+FER-2013.zip
